@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=C39BD3&center=true&vCenter=true&multiline=true&width=700&height=100&lines=👩‍💻+Data+Scientist+%26+ML+Engineer;🐍+Python+%7C+SQL+%7C+Machine+Learning;📊+Turning+Data+into+Decisions;🚀+Ready+to+Build+the+Future!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=C39BD3&center=true&vCenter=true&multiline=true&width=700&height=100&lines=👩‍💻+Data+Scientist+%26+ML+Engineer;🐍+Python+%7C+SQL+%7C+Machine+Learning;📊+Turning+Data+into+Decisions;🚀+Ready+to+Build+the+Future!" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -22,14 +22,15 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="girl coding gif"/>
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="girl coding gif"/>
+
 ```python
 class KusumaMunagala:
 
     def __init__(self):
         self.name        = "Kusuma Munagala"
         self.location    = "Guntur, India 🇮🇳"
-        self.education   = "B.Tech Graduate — KL University 🎓"
+        self.education   = "B.Tech Graduate @ KL University 🎓"
         self.skills      = ["Python", "Data Science",
                             "Machine Learning", "SQL",
                             "HTML/CSS"]
@@ -45,7 +46,7 @@ class KusumaMunagala:
 
 me = KusumaMunagala()
 me.say_hi()
-` ` `
+```
 
 <br clear="right"/>
 
@@ -124,18 +125,14 @@ me.say_hi()
 
 <div align="center">
 
-` ` `
-╔══════════════════════════════════════════════════════════════╗
-║                   🌟 MY PROFESSIONAL ROADMAP                 ║
-╠══════════════════════════════════════════════════════════════╣
-║  🎓  Education   →  B.Tech Graduate from KL University       ║
-║  🔥  Right Now   →  Building ML projects & growing skills    ║
-║  📊  Short Term  →  Land a Data Science / ML role            ║
-║  💻  Also Open   →  Software Development opportunities        ║
-║  🚀  Long Term   →  Senior ML Engineer & AI Researcher       ║
-║  🌍  Dream       →  Solve real-world problems using AI       ║
-╚══════════════════════════════════════════════════════════════╝
-` ` `
+| 🏷️ Stage | 📌 Goal |
+|:---:|:---|
+| 🎓 **Education** | B.Tech Graduate from KL University |
+| 🔥 **Right Now** | Building ML projects & growing skills |
+| 📊 **Short Term** | Land a Data Science / ML role |
+| 💻 **Also Open** | Software Development opportunities |
+| 🚀 **Long Term** | Senior ML Engineer & AI Researcher |
+| 🌍 **Dream** | Solve real-world problems using AI |
 
 </div>
 
@@ -145,7 +142,7 @@ me.say_hi()
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=KUSUMAMUNAGALA&theme=darkhub&no-frame=true&column=6&margin-w=10&margin-h=10&title=Stars,Followers,Commits,Repositories,Issues,PullRequest)
+<img src="https://github-profile-trophy.vercel.app/?username=KUSUMAMUNAGALA&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </div>
 
@@ -157,7 +154,7 @@ me.say_hi()
 
 <br/>
 
-*B.Tech Graduate | Open to Data Science, ML & Software Development opportunities* 💼
+*B.Tech Graduate — Open to Data Science, ML & Software Development opportunities* 💼
 
 <br/>
 
@@ -180,10 +177,3 @@ me.say_hi()
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C39BD3,40:9B59B6,70:7B2FBE,100:4A0E8F&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 </div>
-```
-
----
-
-⚠️ **Important note** — the ` `` ` ` (3 backticks) I wrote as `  ` ` `  ` with spaces are actually **3 backticks with NO spaces** in the real file. The downloaded file has them correctly — so **always use the downloaded file**, not this chat copy. That's likely why you're getting errors! 💜
-
-**Download the file above ⬆️ → open in Notepad → Ctrl+A → Ctrl+C → paste into GitHub. That's it!**
