@@ -86,23 +86,15 @@ me.say_hi()
 ## 📊 GitHub Stats & Grind
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=KUSUMAMUNAGALA&show_icons=true&theme=tokyonight&hide_border=false&border_color=7B2FBE&title_color=C39BD3&icon_color=9B59B6&text_color=ffffff&bg_color=0d1117" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUSUMAMUNAGALA&layout=compact&theme=tokyonight&hide_border=false&border_color=7B2FBE&title_color=C39BD3&text_color=ffffff&bg_color=0d1117" height="180" alt="Top Languages"/>
-
 <br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=KUSUMAMUNAGALA&theme=tokyonight&border=7B2FBE&ring=C39BD3&fire=9B59B6&currStreakLabel=C39BD3&background=0d1117" alt="GitHub Streak" width="60%"/>
-
 <br/><br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KUSUMAMUNAGALA&theme=tokyo-night&bg_color=0d1117&color=C39BD3&line=9B59B6&point=ffffff&area=true&hide_border=false" width="95%" alt="Contribution Graph"/>
-
 </div>
-
 ---
-
 ## 🚀 Projects & Work
 
 <div align="center">
