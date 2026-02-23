@@ -1,25 +1,43 @@
+</div>
+
 ---
 
-## 🤝 Let's Team Up!
+## 🏆 Achievements & Highlights
 
 <div align="center">
 
-*Ready to collaborate, learn together, or just chat about tech? Hit me up!* 👇
+![Trophies](https://github-profile-trophy.vercel.app/?username=KUSUMAMUNAGALA&theme=darkhub&no-frame=true&column=6&margin-w=10&margin-h=10&title=Stars,Followers,Commits,Repositories,Issues,PullRequest)
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
 
 <br/>
 
+*B.Tech Graduate | Open to Data Science, ML & Software Development opportunities* 💼
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kusuma%20Munagala-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kusuma-munagala/)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-KUSUMAMUNAGALA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KUSUMAMUNAGALA)
-[![Email](https://img.shields.io/badge/Email-Drop%20a%20Mail-9B59B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kusumamunagala8686@gmail.com)
+
+<br/><br/>
+
+### 💜 *"Data is the new oil — and I'm here to refine it."* 💜
 
 <br/>
-
-### 💜 *"Building things that matter, one line of code at a time."* 💜
 
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C39BD3,50:9B59B6,100:7B2FBE&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C39BD3,40:9B59B6,70:7B2FBE,100:4A0E8F&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 </div>
