@@ -87,17 +87,17 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KUSUMAMUNAGALA&show_icons=true&theme=midnight-purple&border_color=7B2FBE&title_color=C39BD3&icon_color=9B59B6&text_color=e8d5f5&bg_color=0d1117&rank_icon=github&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KUSUMAMUNAGALA&show_icons=true&theme=tokyonight&hide_border=false&border_color=7B2FBE&title_color=C39BD3&icon_color=9B59B6&text_color=ffffff&bg_color=0d1117" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUSUMAMUNAGALA&layout=compact&theme=midnight-purple&border_color=7B2FBE&title_color=C39BD3&text_color=e8d5f5&bg_color=0d1117&langs_count=6" height="175" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUSUMAMUNAGALA&layout=compact&theme=tokyonight&hide_border=false&border_color=7B2FBE&title_color=C39BD3&text_color=ffffff&bg_color=0d1117" height="180" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KUSUMAMUNAGALA&theme=midnight-purple&border=7B2FBE&ring=C39BD3&fire=9B59B6&currStreakLabel=C39BD3&sideLabels=e8d5f5&background=0d1117&dates=9B59B6" alt="GitHub Streak" width="55%"/>
+<img src="https://streak-stats.demolab.com?user=KUSUMAMUNAGALA&theme=tokyonight&border=7B2FBE&ring=C39BD3&fire=9B59B6&currStreakLabel=C39BD3&background=0d1117" alt="GitHub Streak" width="60%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KUSUMAMUNAGALA&bg_color=0d1117&color=C39BD3&line=9B59B6&point=ffffff&area=true&area_color=4A0E8F&hide_border=false&border_color=7B2FBE&radius=8" width="95%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KUSUMAMUNAGALA&theme=tokyo-night&bg_color=0d1117&color=C39BD3&line=9B59B6&point=ffffff&area=true&hide_border=false" width="95%" alt="Contribution Graph"/>
 
 </div>
 
@@ -142,7 +142,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KUSUMAMUNAGALA&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=KUSUMAMUNAGALA&theme=onestar&no-frame=false&no-bg=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" width="90%"/>
 
 </div>
 
@@ -158,11 +158,11 @@ me.say_hi()
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kusuma%20Munagala-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kusuma%20Munagala-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kusuma-munagala/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-KUSUMAMUNAGALA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KUSUMAMUNAGALA)
 &nbsp;
-[![Email](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kusumamuanagala8686@gmail.com)
 
 <br/><br/>
 
